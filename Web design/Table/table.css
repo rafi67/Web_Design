@@ -1,0 +1,39 @@
+.salaryReport {
+    border-collapse: collapse;
+    border-color: #ddd;
+}
+
+.salaryReport thead {
+    background: tomato;
+    color: white;
+    text-transform: uppercase;
+    font-family: arial black;
+}
+
+.salaryReport thead tr th {
+    padding: 10px;
+}
+
+.salaryReport tbody tr td {
+    padding: 10px;
+}
+
+.mark {
+    background: #ff0000;
+    color: white;
+}
+
+.salaryReport tbody tr:first-child {
+    background: red;
+    color: white;
+}
+
+.salaryReport tbody tr:nth-child(even) {
+    background: #555;
+    color: white;
+}
+
+.salaryReport tbody tr:last-child {
+    background: green;
+    color: white;
+}

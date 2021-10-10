@@ -1,0 +1,42 @@
+body {
+    background: #53CC46;
+}
+
+.loginBox {
+    background: white;
+    width: 400px;
+    padding: 40px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.loginBox input {
+    background: whitesmoke;
+    padding: 20px;
+    width: 90%;
+    margin-bottom: 10px;
+    display: block;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+
+.loginBtn {
+    width: 100% !important;
+    color: white;
+    background: #36C39D !important;
+}
+
+.registerLink {
+    text-align: center;
+}
+
+.registerLink span {
+    color: gray;
+}
+
+.registerLink a {
+    text-decoration: none;
+    color: #36C39D;
+}

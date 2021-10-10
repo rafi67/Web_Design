@@ -1,0 +1,8 @@
+.back h1{
+    font-family: areal black;
+}
+
+.back {
+    background: linear-gradient(#ff000060, yellow), url(background_35_2UDIpF7.wide.jpeg);
+    height: 600px;
+}

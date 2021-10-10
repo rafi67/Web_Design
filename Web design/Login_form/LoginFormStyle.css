@@ -1,0 +1,47 @@
+body {
+    background: #6CBD51;
+}
+
+.loginBox {
+    background: white;
+    width: 400px;
+    padding: 40px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.loginBox input {
+    width: 90%;
+    display: block;
+    padding: 20px;
+    background: #F2F2F2;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+
+.loginBtn {
+    background: #00B242 !important;
+    color: white;
+    width: 100% !important;
+}
+
+.registerLink {
+    text-align: center;
+    font-size: 18px;
+}
+
+.registerLink span {
+    color: hsl(0, 4%, 39%);
+}
+
+.registerLink a {
+    color: #35bc5e;
+    text-decoration: none;
+}
+
+.registerLink a:hover {
+    color: blueviolet;
+}

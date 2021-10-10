@@ -1,0 +1,7 @@
+.box {
+    background: tomato;
+    color: white;
+    width: 200px;
+    position: relative;
+    left: 100px;
+}

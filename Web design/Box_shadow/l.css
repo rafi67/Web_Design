@@ -1,0 +1,59 @@
+body {
+    background: #5AD74F;
+}
+
+.loginBox {
+    background: white;
+    margin: auto;
+    width: 400px;
+    padding: 40px;
+    margin-top: 200px;
+    overflow: hidden;
+    box-shadow: 0px 0px 50px -7px black;
+}
+
+.loginBox input {
+    background: whitesmoke;
+    color: gray;
+    width: 90%;
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding: 20px;
+    border: none;
+    outline: none;
+}
+
+.loginBox h2 {
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 20px;
+    font-family: arial black;
+    text-transform: uppercase;
+    color: #444;
+    text-shadow: 1px 1px 1px black;
+    font-size: 30px;
+}
+
+.loginBtn {
+    width: 100% !important;
+    color: white !important;
+    background: linear-gradient(#00B242, #088335) !important;
+}
+
+.loginBtn:hover {
+    background: linear-gradient(#088335, #00B242) !important;
+    cursor: pointer;
+}
+
+.registerLink {
+    text-align: center;
+}
+
+.registerLink span {
+    color: gray;
+}
+
+.registerLink a {
+    text-decoration: none;
+    color: #19d109;
+}

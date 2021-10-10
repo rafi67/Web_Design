@@ -1,0 +1,8 @@
+.back {
+    color: black;
+    border: 15px solid black;
+    background: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg);
+    width: 500px;
+    height: 500px;
+    display: block;
+}
